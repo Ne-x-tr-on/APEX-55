@@ -1,4 +1,4 @@
-# APEX-55 | Universal Autonomous Racing & Competition Intelligence Platform
+# APEX-55 | Universal Autonomous Racing
 
 ![APEX-55 Badge](https://img.shields.io/badge/APEX--55-Universal_Autonomous_Platform-blue)
 ![Built From](https://img.shields.io/badge/Built_from-2026-red)
